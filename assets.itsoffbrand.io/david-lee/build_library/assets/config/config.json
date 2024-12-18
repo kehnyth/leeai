@@ -1,0 +1,42 @@
+{
+    "canvas": {
+        "textureId": "texture1"
+    },
+    "textures": [
+        {
+            "id": "texture1",
+            "ratio": "5/6",
+            "file": "https://assets.itsoffbrand.io/david-lee/build_library/assets/textures/paintings/dreamfield-2.jpg"
+        },
+        {
+            "id": "texture2",
+            "ratio": "4/5",
+            "file": "https://assets.itsoffbrand.io/david-lee/build_library/assets/textures/paintings/fading-mirage.jpg"
+        },
+        {
+            "id": "texture3",
+            "ratio": "1/1",
+            "file": "https://assets.itsoffbrand.io/david-lee/build_library/assets/textures/paintings/next-to-you.jpg"
+        },
+        {
+            "id": "texture4",
+            "ratio": "4/5",
+            "file": "https://assets.itsoffbrand.io/david-lee/build_library/assets/textures/paintings/flying-high.jpg"
+        },
+        {
+            "id": "texture5",
+            "ratio": "1/1",
+            "file": "https://assets.itsoffbrand.io/david-lee/build_library/assets/textures/paintings/nova-2.jpg"
+        },
+        {
+            "id": "texture6",
+            "ratio": "4/5",
+            "file": "https://assets.itsoffbrand.io/david-lee/build_library/assets/textures/paintings/forever-changing.jpg"
+        },
+        {
+            "id": "texture7",
+            "ratio": "1/1",
+            "file": "https://assets.itsoffbrand.io/david-lee/build_library/assets/textures/paintings/recurring-dreams-1.jpg"
+        }
+    ]
+}
